@@ -2,6 +2,6 @@
 <html>
     <body>
         <button type="button" onclick = a++;
-        alert(a)>do something lah</button>
+        >a</button>
     </body>
 </html>>
